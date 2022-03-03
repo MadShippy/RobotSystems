@@ -61,6 +61,7 @@ class Movement(object):
 
 
     # Move to grab cube, steal from the sorting "pick" function
+    #everything but the last two if statements? idk I'm trying to determine all the variables needed
     def grab_cube(self):
         pass
 
